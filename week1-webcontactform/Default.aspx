@@ -1,7 +1,7 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="week1_webcontactform.Default" %>
 
 <!DOCTYPE html>
-<!-- Author NAme: Mansi Patel -->
+<!-- Author Name: Mansi Patel (200303640) -->
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
@@ -72,8 +72,6 @@
             </div>
         </div>
     </div>
-
-
 
     <!-- JavaScript -->
     <script src="Scripts/jquery-2.2.3.min.js"></script>
